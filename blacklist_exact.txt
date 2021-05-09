@@ -1,0 +1,32 @@
+# Title: carl2990s pihole
+# Updated: 2021-05-09
+# Homepage: https://github.com/carl2990/personalpihole/
+
+0.0.0.0     gos-api.gos-gsp.io     #Samsung Game Optimization Service
+0.0.0.0     gslb.secb2b.com     #Samsung Device Services
+0.0.0.0     poll.omc.samsungdm.com     #Samsumg Phone Home
+0.0.0.0     dc.dqa.samsung.com     #Samsumg Phone Home
+0.0.0.0     sdk.pushmessage.samsung.com     #Samsumg Phone Home
+0.0.0.0     distribution-te-prod.prod.svc-test-trace.nhs.uk     #Added from Query Log
+0.0.0.0     device-metrics-us.amazon.com     #Added from Query Log
+0.0.0.0     collector.smartmetrics.rocks     #Added from Query Log
+0.0.0.0     live.smartmetrics.co.uk     #Added from Query Log
+0.0.0.0     vsanalytics.visualsoft.co.uk     #Added from Query Log
+0.0.0.0     device-metrics-us-2.amazon.com     #Added from Query Log
+0.0.0.0     darkreader.org     #Added from Query Log
+0.0.0.0     darkreader.github.io     #Added from Query Log
+0.0.0.0     submission-te-prod.prod.svc-test-trace.nhs.uk     #Added from Query Log
+0.0.0.0     safebrowsing.googleapis.com     #Added from Query Log
+0.0.0.0     location.services.mozilla.com     #Firefox location services
+0.0.0.0     eu-kaf.samsungknox.com     #Samsung device care
+0.0.0.0     tt-wifi-06.cloudcheck.net     #Added from Query Log
+0.0.0.0     ewifi-uk.cloudcheck.net     #Added from Query Log
+0.0.0.0     pinning-02.secb2b.com     #Added from Query Log
+0.0.0.0     doh.dns.apple.com     #Added from Query Log
+0.0.0.0     doh.dns.apple.com.v.aaplimg.com     #Added from Query Log
+0.0.0.0     aax-eu.amazon-adsystem.com     #Added from Query Log
+0.0.0.0     metrics.mzstatic.com     #Added from Query Log
+0.0.0.0     supportmetrics.apple.com     #Added from Query Log
+0.0.0.0     freedns1.registrar-servers.com     #Added from Query Log
+0.0.0.0     cdnjs.cloudflare.com     #Added from Query Log
+0.0.0.0     acs.talktalk.co.uk     #Added from Query Log
