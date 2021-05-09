@@ -1,0 +1,196 @@
+# Title: carl2990s pihole
+# Updated: 2021-05-09
+# Homepage: https://github.com/carl2990/personalpihole/
+
+0.0.0.0     0.client-channel.google.com     #In order for users on your network to access Google Drive and Google Docs editors this domain must be whitelisted - https://support.google.com/a/answer/2589954?hl=en - qjz9zk
+0.0.0.0     1drv.com     #It is actually a legitimate Microsoft owned domain and used as a short link for OneDrive documents. - qjz9zk
+0.0.0.0     2.android.pool.ntp.org     #This domain is a part of The pool.ntp.org project which is a big virtual cluster of timeservers providing reliable time. This domain is used in Android devices - qjz9zk
+0.0.0.0     akamaihd.net     #This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN). - qjz9zk
+0.0.0.0     akamaitechnologies.com     #This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN). - qjz9zk
+0.0.0.0     akamaized.net     #This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN). - qjz9zk
+0.0.0.0     amazonaws.com     #Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs. This domain is used to serve files and other static resources which are hosted on Amazon AWS - qjz9zk
+0.0.0.0     android.clients.google.com     #android
+0.0.0.0     api.facebook.com     #facebook
+0.0.0.0     api.ipify.org     #It is used to get your public IP address programmatically. ipify is completely opensource. - qjz9zk
+0.0.0.0     api.rlje.net     #Used to deliver contents on video straming apps on hulu etc. - qjz9zk
+0.0.0.0     app-api.ted.com     #Used by ted.com streams. - qjz9zk
+0.0.0.0     appleid.apple.com     #apple
+0.0.0.0     app-measurement.com     #breaks Android apps
+0.0.0.0     apps.skype.com     #Microsoft
+0.0.0.0     appsbackup-pa.clients6.google.com     #Used to backup device settings and app data. - qjz9zk
+0.0.0.0     appsbackup-pa.googleapis.com     #Used to backup device settings and app data. - qjz9zk
+0.0.0.0     appspot-preview.l.google.com     #Used to deliver system updates to Moto phones. - qjz9zk
+0.0.0.0     apresolve.spotify.com     #Spotify
+0.0.0.0     apt.sonarr.tv     #Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available. - qjz9zk
+0.0.0.0     aspnetcdn.com     #Owned by Microsoft. Used to deliver files such as Windows updates and other services. - qjz9zk
+0.0.0.0     ax.phobos.apple.com.edgesuite.net     #Used by Apple Photos. - qjz9zk
+0.0.0.0     b-api.facebook.com     #facebook
+0.0.0.0     beacons.gcp.gvt2.com     #facebook
+0.0.0.0     bigzipfiles.facebook.com     #facebook
+0.0.0.0     brightcove.net     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     c.s-microsoft.com     #Microsoft
+0.0.0.0     captive.apple.com     #apple
+0.0.0.0     cdn.cloudflare.net     #Used to deliver static files over CloudFlare CDN. - qjz9zk
+0.0.0.0     cdn.embedly.com     #Embedly is used to embed videos, images and rich media from 300+ providers with just the URL. - qjz9zk
+0.0.0.0     cdn.fbsbx.com     #facebook
+0.0.0.0     cdn.optimizely.com     #optimizely.com is a progressive delivery and experimentation software for other companies. Often used as a video delivery system. - qjz9zk
+0.0.0.0     cdn.vidible.tv     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     cdn2.optimizely.com     #optimizely.com is a progressive delivery and experimentation software for other companies. Often used as a video delivery system. - qjz9zk
+0.0.0.0     cdn3.optimizely.com     #optimizely.com is a progressive delivery and experimentation software for other companies. Often used as a video delivery system. - qjz9zk
+0.0.0.0     cdnjs.cloudflare.com     #Used to deliver static files over CloudFlare CDN. - qjz9zk
+0.0.0.0     cert.mgt.xboxlive.com     #Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+0.0.0.0     clientconfig.passport.net     #Owned by Microsoft. Used in Windows Store. - qjz9zk
+0.0.0.0     client-s.gateway.messenger.live.com     #facebook
+0.0.0.0     clients1.google.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     clients2.google.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     clients3.google.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     clients4.google.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     clients5.google.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     clients6.google.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     connect.facebook.com     #facebook
+0.0.0.0     connectivitycheck.android.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     connectivitycheck.gstatic.com     #Used in Google Maps and other Google services. - qjz9zk
+0.0.0.0     continuum.dds.microsoft.com     #Used by YourPhone app by Microsoft on Windows 10 for mirroring Android notifications - qjz9zk
+0.0.0.0     creative.ak.fbcdn.net     #facebook
+0.0.0.0     cse.google.com     #Google Custom Search. Often used as a search functionality inside a website. https://programmablesearchengine.google.com/about/ - qjz9zk
+0.0.0.0     ctldl.windowsupdate.com     #Owned by Microsoft. Used to deliver Windows updates. - qjz9zk
+0.0.0.0     cws.conviva.com     #Conviva offers online video optimization and online video analytics. But it is neccessary to whitelist in order to watch many online contents which uses Conviva. - qjz9zk
+0.0.0.0     d2c8v52ll5s99u.cloudfront.net     #Domain owned by Amazon. Used to deliver media such as videos in entertainment and news sites. - qjz9zk
+0.0.0.0     d2gatte9o95jao.cloudfront.net     #Domain owned by Amazon. Used to deliver media such as videos in entertainment and news sites. - qjz9zk
+0.0.0.0     dataplicity.com     #Used to remotely control your Raspberry-Pi. - qjz9zk
+0.0.0.0     def-vef.xboxlive.com     #Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+0.0.0.0     delivery.vidible.tv     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     device.auth.xboxlive.com     #Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+0.0.0.0     display.ugc.bazaarvoice.com     #To display Ratings & Reviews or Questions & Answers in online stores. - qjz9zk
+0.0.0.0     displaycatalog.mp.microsoft.com     #Microsoft
+0.0.0.0     dl.delivery.mp.microsoft.com     #Microsoft
+0.0.0.0     dl.dropbox.com     #Used to download files from Dropbox - qjz9zk
+0.0.0.0     dl.dropboxusercontent.com     #Used to download files from Dropbox - qjz9zk
+0.0.0.0     dl.google.com     #Google
+0.0.0.0     dns.msftncsi.com     #Owned by Microsoft. Used to check whether the internet connection is up or not in Windows systems. - qjz9zk
+0.0.0.0     dynupdate.no-ip.com     #No-IP offers DNS services, email, network monitoring and SSL certificates - qjz9zk
+0.0.0.0     edge.api.brightcove.com     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     edge-mqtt.facebook.com     #facebook
+0.0.0.0     eds.xboxlive.com     #Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+0.0.0.0     external-lhr0-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr10-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr1-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr2-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr3-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr4-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr5-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr6-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr7-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr8-1.xx.fbcdn.net     #facebook
+0.0.0.0     external-lhr9-1.xx.fbcdn.net     #facebook
+0.0.0.0     fb.me     #facebook
+0.0.0.0     fbcdn-creative-a.akamaihd.net     #facebook
+0.0.0.0     fe3.delivery.dsp.mp.microsoft.com.nsatc.net     #facebook
+0.0.0.0     firestore.googleapis.com     #facebook
+0.0.0.0     fonts.gstatic.com     #Owned by Google. Used to deliver Google Fonts. - qjz9zk
+0.0.0.0     g.live.com     #Used by Microsoft for their Outlook.com and OneDrive products. Backup bitlocker recovery key to Microsoft account. - qjz9zk
+0.0.0.0     geo3.ggpht.com     #Owned by Google. Used to deliver static files over the internet. - qjz9zk
+0.0.0.0     geo-prod.do.dsp.mp.microsoft.com     #Microsoft
+0.0.0.0     gfwsl.geforce.com     #Used for checking nVidia driver updates. - qjz9zk
+0.0.0.0     giphy.com     #Gifs hosting platform. - qjz9zk
+0.0.0.0     github.com     #GitHub provides hosting for software development and version control using Git. - qjz9zk
+0.0.0.0     github.io     #Owned by GitHub. Used for GitHub pages. - qjz9zk
+0.0.0.0     googleapis.com     #An important domain used to provide APIs to various Google services. - qjz9zk
+0.0.0.0     googleapis.l.google.com     #Google
+0.0.0.0     graph.instagram.com     #Added from Query Log
+0.0.0.0     gsp1.apple.com     #Apple
+0.0.0.0     gstatic.com     #Owned by Google. gstatic.com is a cookieless domain to deliver static content for Google. - qjz9zk
+0.0.0.0     gstaticadssl.l.google.com     #Google
+0.0.0.0     help.ui.xboxlive.com     #Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+0.0.0.0     hls.ted.com     #Used by ted.com streams. - qjz9zk
+0.0.0.0     i.s-microsoft.com     #Microsoft
+0.0.0.0     i.ytimg.com     #Owned by Google. Used to deliver thumbails in YouTube. - qjz9zk
+0.0.0.0     i1.ytimg.com     #Owned by Google. Used to deliver thumbails in YouTube. - qjz9zk
+0.0.0.0     imagesak.secureserver.net     #GoDaddy webmail buttons - qjz9zk
+0.0.0.0     img.vidible.tv     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     imgix.net     #Image placeholders often used during web page loading. - qjz9zk
+0.0.0.0     imgs.xkcd.com     #Used to deliver images on xkcd.com. - qjz9zk
+0.0.0.0     insideruser.microsoft.com     #Microsoft Sync
+0.0.0.0     instantmessaging-pa.googleapis.com     #An important domain used to provide APIs to various Google services. - qjz9zk
+0.0.0.0     intercom.io     #Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk
+0.0.0.0     ipv6.msftncsi.com     #Microsoft
+0.0.0.0     itunes.apple.com     #Apple
+0.0.0.0     jquery.com     #jQuery is a JavaScript library. Also used to deliver the files over CDN. - qjz9zk
+0.0.0.0     jsdelivr.net     #jsDelivr is a free public CDN for open-source projects. It can serve web files directly from the npm registry and GitHub repositories without any configuration. - qjz9zk
+0.0.0.0     keystone.mwbsys.com     #Owned by Malwarebytes. It is a licensing system used to verify the Malwarebytes software license. - qjz9zk
+0.0.0.0     l.facebook.com     #facebook
+0.0.0.0     lastfm-img2.akamaized.net     #Used by last.fm to deliver images. - qjz9zk
+0.0.0.0     licensing.xboxlive.com     #Owned by Microsoft. Used for Xbox updates, game downloads, acheivements unlocking etc. - qjz9zk
+0.0.0.0     link.pistonheads.com     #Added from Query Log
+0.0.0.0     live.com     #Owned by Microsoft. It is a personal information manager web app from Microsoft consisting of webmail, calendaring, contacts, and tasks services. - qjz9zk
+0.0.0.0     livepassdl.conviva.com     #Conviva offers online video optimization and online video analytics. But it is neccessary to whitelist in order to watch many online contents which uses Conviva. - qjz9zk
+0.0.0.0     login.live.com     #Microsoft
+0.0.0.0     login.microsoftonline.com     #Microsoft
+0.0.0.0     m.hotmail.com     #Microsoft
+0.0.0.0     manifest.googlevideo.com     #Used for YouTube live streams. - qjz9zk
+0.0.0.0     microsoftonline.com     #Owned by Microsoft. This domain is checked by the operating systems when connecting via wifi, and if they do not get the response they expect, they may try to open a wifi login page or similar as they believe they are located behind a captive portal. - qjz9zk
+0.0.0.0     mqtt.c10r.facebook.com     #facebook
+0.0.0.0     mqtt-mini.facebook.com     #Added from Query Log
+0.0.0.0     msftncsi.com     #Microsoft
+0.0.0.0     nexusrules.officeapps.live.com     #Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+0.0.0.0     no-ip.com     #No-IP offers DNS services, email, network monitoring and SSL certificates. - qjz9zk
+0.0.0.0     ns1.dropbox.com     #Dropbox nameserver. Used to download files from Dropbox - qjz9zk
+0.0.0.0     ns2.dropbox.com     #Dropbox nameserver. Used to download files from Dropbox - qjz9zk
+0.0.0.0     ocsp.apple.com     #iOS developers are able to distribute apps outside of the App Store using an Enterprise provisioning profile. Apple can revoke these kinds of apps by using this domain. - qjz9zk
+0.0.0.0     office.com     #Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+0.0.0.0     office.net     #Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+0.0.0.0     office365.com     #Owned by Microsoft. Used by Microsoft Office apps. - qjz9zk
+0.0.0.0     officeclient.microsoft.com     #Microsoft
+0.0.0.0     om.cbsi.com     #CBS All Access on straming platforms. - qjz9zk
+0.0.0.0     onedrive.live.com     #Owned by Microsoft. Used to sign in to One Drive. - qjz9zk
+0.0.0.0     outlook.live.com     #Owned by Microsoft. Used for Outlook email. - qjz9zk
+0.0.0.0     outlook.office365.com     #Microsoft
+0.0.0.0     pihole     #pihole
+0.0.0.0     portal.fb.com     #facebook
+0.0.0.0     pricelist.skype.com     #Microsoft
+0.0.0.0     products.office.com     #Microsoft
+0.0.0.0     raw.githubusercontent.com     #Owned by GitHub. It is used to serve unprocessed versions of files stored in GitHub repositories. - qjz9zk
+0.0.0.0     redirector.googlevideo.com     #Used by YouTube to play embedded videos on third-party websites. - qjz9zk
+0.0.0.0     reminders-pa.googleapis.com     #Google
+0.0.0.0     res.cloudinary.com     #Cloudinary provides a cloud-based image and video management services. It enables users to upload, store, manage, manipulate, and deliver images and video for websites and apps. - qjz9zk
+0.0.0.0     s.gateway.messenger.live.com     #facebook
+0.0.0.0     s.marketwatch.com     #Images are loaded on marketwatch.com using this domain. - qjz9zk
+0.0.0.0     s.mzstatic.com     #Google
+0.0.0.0     s.youtube.com     #Google
+0.0.0.0     s.ytimg.com     #Owned by Google. Used to deliver thumbails in YouTube. - qjz9zk
+0.0.0.0     s1.wp.com     #Owned by WordPress. Used to feliver static files and media for websites which are hosted on wordpress.com platform. - qjz9zk
+0.0.0.0     s2.youtube.com     #Used to record YouTube watch history. Blocking this domain will pause your watch history on YouTube. - qjz9zk
+0.0.0.0     s3.amazonaws.com     #Used to deliver files that are stored in Amazon AWS S3 storage buckets. - qjz9zk
+0.0.0.0     scontent.fgdl5-1.fna.fbcdn.net     #facebook
+0.0.0.0     scontent.xx.fbcdn.net     #facebook
+0.0.0.0     scontent-lhr3-1.xx.fbcdn.net     #facebook
+0.0.0.0     secure.avangate.com     #Used to perform online payments. - qjz9zk
+0.0.0.0     settings-win.data.microsoft.com     #Microsoft Sync
+0.0.0.0     sls.update.microsoft.com.akadns.net     #microsoft
+0.0.0.0     spclient.wg.spotify.com     #spotify
+0.0.0.0     ssl.p.jwpcdn.com     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     star.c10r.facebook.com     #facebook
+0.0.0.0     star-mini.c10r.facebook.com     #facebook
+0.0.0.0     t.co     #Owned by Twitter. Used as a URL shortner while sharing Twitter posts. - qjz9zk
+0.0.0.0     tawk.to     #Live chat platform for websites to chat with the website owner. Blocking this domain will block chat widget. - qjz9zk
+0.0.0.0     tedcdn.com     #Used by ted.com streams. - qjz9zk
+0.0.0.0     tinyurl.com     #Popular URL shortner - qjz9zk
+0.0.0.0     traffic.libsyn.com     #Used in Pocketcasts app to serve and download podcasts. - qjz9zk
+0.0.0.0     twimg.com     #Owned by Twitter. Used to deliver media on Twitter. - qjz9zk
+0.0.0.0     ui.skype.com     #Microsoft
+0.0.0.0     upload.facebook.com     #facebook
+0.0.0.0     videos.vidible.tv     #Video delivery systems, popular in entertainment and news sites. - qjz9zk
+0.0.0.0     video-stats.l.google.com     #google
+0.0.0.0     vidtech.cbsinteractive.com     #Used to deliver videos over the internet. - qjz9zk
+0.0.0.0     widget-cdn.rpxnow.com     #Owned by Akamai Technologies. Used as a sign in method in various apps and sites. - qjz9zk
+0.0.0.0     win10.ipv6.microsoft.com     #It gives full IPv6 connectivity for IPv6-capable hosts that are on the IPv4 Internet but have no native connection to an IPv6 network. - qjz9zk
+0.0.0.0     wp.com     #Owned by WordPress.com hosting. - qjz9zk
+0.0.0.0     www.apple.com     #apple
+0.0.0.0     www.googleapis.com     #An important domain used to provide APIs to various Google services. - qjz9zk
+0.0.0.0     www.msftconnecttest.com     #Owned by Microsoft. Used by Windows systems to check internet connectivity. Also known as Network Connectivity Status Indicator-NCSI. - qjz9zk
+0.0.0.0     www.msftncsi.com     #Microsoft
+0.0.0.0     www.no-ip.com     #No-IP offers DNS services, email, network monitoring and SSL certificates. - qjz9zk
+0.0.0.0     www.youtube-nocookie.com     #Owned by Google. YouTube launched a new feature on the site recently that it called Privacy-Enhanced Mode. This domain is used to embed the videos on third-party sites with less trackers. - qjz9zk
+0.0.0.0     youtu.be     #YouTube URL shortner. Used while sharing videos, playlists, channels etc. - qjz9zk
+0.0.0.0     youtube-nocookie.com     #Owned by Google. YouTube launched a new feature on the site recently that it called Privacy-Enhanced Mode. This domain is used to embed the videos on third-party sites with less trackers. - qjz9zk
+0.0.0.0     yt3.ggpht.com     #Owned by Google. Used to deliver static files over the internet. - qjz9zk
