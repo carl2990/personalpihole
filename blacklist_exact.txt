@@ -30,3 +30,7 @@
 0.0.0.0     freedns1.registrar-servers.com     #Added from Query Log
 0.0.0.0     cdnjs.cloudflare.com     #Added from Query Log
 0.0.0.0     acs.talktalk.co.uk     #Added from Query Log
+0.0.0.0     dls-udc.dqa.samsung.com
+0.0.0.0     uk-odc.samsungapps.com
+0.0.0.0     dls.di.atlas.samsung.com
+0.0.0.0     asset.samsungvisioncloud.com
