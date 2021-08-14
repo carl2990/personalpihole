@@ -33,3 +33,32 @@
 0.0.0.0     dls-udc.dqa.samsung.com
 0.0.0.0     dls.di.atlas.samsung.com
 0.0.0.0     asset.samsungvisioncloud.com
+0.0.0.0     www.opubmedia.com
+0.0.0.0     r3.o.lencr.org
+0.0.0.0     cdnjs.cloudflare.com
+0.0.0.0     adserver-application-1415734552.us-east-1.elb.amazonaws.com
+0.0.0.0     aax-eu.amazon-adsystem.com
+0.0.0.0     metrics.mzstatic.com
+0.0.0.0     supportmetrics.apple.com
+0.0.0.0     gos-api.gos-gsp.io #Samsung Device Services
+0.0.0.0     gslb.secb2b.com #Samsung Device Services
+0.0.0.0     poll.omc.samsungdm.com #Samsung Phone Home
+0.0.0.0     dc.dqa.samsung.com #Samsung Phone Home
+0.0.0.0     sdk.pushmessage.samsung.com #Samsung Phone Home
+0.0.0.0     distribution-te-prod.prod.svc-test-trace.nhs.uk
+0.0.0.0     device-metrics-us.amazon.com
+0.0.0.0     collector.smartmetrics.rocks
+0.0.0.0     live.smartmetrics.co.uk
+0.0.0.0     vsanalytics.visualsoft.co.uk
+0.0.0.0     device-metrics-us-2.amazon.com
+0.0.0.0     darkreader.github.io
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
+0.0.0.0     
