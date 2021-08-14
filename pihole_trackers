@@ -6,3 +6,7 @@
 0.0.0.0 dynatrace.com #dynatrace tracking
 0.0.0.0 cdn.optimizely.com #comment
 0.0.0.0 cdn3.optimizely.com #comment
+0.0.0.0 api.appsee.com #tracking
+0.0.0.0 appboy.com #tracking
+0.0.0.0 jwplayer.map.fastly.net
+0.0.0.0 jwplayer.com
