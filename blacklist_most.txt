@@ -1,0 +1,2 @@
+0.0.0.0 graph.facebook.com #facebook tracking
+0.0.0.0 d2f18rgqnlt5oj.cloudfront.com #Call app seems to use this
