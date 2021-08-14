@@ -60,3 +60,4 @@
 0.0.0.0     doh.dns.apple.com
 0.0.0.0     doh.dns.apple.com.v.aaplimg.com
 0.0.0.0     freedns1.registrar-servers.com
+0.0.0.0     d3p8zr0ffa9t17.cloudfront.net #echo phone home
