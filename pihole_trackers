@@ -1,1 +1,8 @@
-
+0.0.0.0 media-shield.jwplayer.map.fastly.net #jwplayer tracking
+0.0.0.0 jwplayer-dualstack.map.fastly.net #jwplayer tracking
+0.0.0.0 cdn.jwplayer.com #jwplayer tracking
+0.0.0.0 jabo.iad.appboy.com #appboy tracking
+0.0.0.0 api.appsee.com #AppSee tracking
+0.0.0.0 dynatrace.com #dynatrace tracking
+0.0.0.0 cdn.optimizely.com #comment
+0.0.0.0 cdn3.optimizely.com #comment
