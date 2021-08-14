@@ -52,13 +52,11 @@
 0.0.0.0     vsanalytics.visualsoft.co.uk
 0.0.0.0     device-metrics-us-2.amazon.com
 0.0.0.0     darkreader.github.io
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
-0.0.0.0     
+0.0.0.0     submission-te-prod.prod.svc-test-trace.nhs.uk
+0.0.0.0     safebrowsing.googleapis.com
+0.0.0.0     eu-kaf.samsungknox.com
+0.0.0.0     tt-wifi-06.cloudcheck.net
+0.0.0.0     pinning-02.secb2b.com
+0.0.0.0     doh.dns.apple.com
+0.0.0.0     doh.dns.apple.com.v.aaplimg.com
+0.0.0.0     freedns1.registrar-servers.com
